@@ -1,25 +1,69 @@
-# 💫 About Me:
-# Hello, I'm Shivansh! 👋<br><br>I'm a 3rd-year college student pursuing a BSc in Mathematics with a passion for Data Science. <br>I'm actively learning and working on various projects to build a successful career in this field.<br><br>## 🔧 Skills<br><br>- **Programming Languages:** Python, C++<br>- **Data Science:** Pandas, NumPy, <br>- **Databases:** SQL, DBMS<br>- **Data Visualization:** Matplotlib, Seaborn<br>- **Machine Learning:** Regression, Classification, Clustering<br>- **Version Control:** Git, GitHub<br><br>## 📚 Currently Learning<br><br>- Data Structures and Algorithms (DSA) with C++<br>- Exploring advanced topics in Data Science<br><br>## 📖 Education<br><br>- Bachelor of Science in Mathematics (BSc)<br>- Brahmanand College, Kanpur, Uttar Pradesh<br><br>## 🌐 Connect with Me<br><br>- [LinkedIn](https://www.linkedin.com/in/alsoshivansh/)<br>- [Twitter](https://twitter.com/alsoshivansh)<br>- [Portfolio Website](https://sites.google.com/view/portfolioshivansh/portfolio)<br><br>Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss anything related to data science, mathematics, or programming. Let's learn and grow together! 🚀<br>
+<h2 align="center">Hi 👋 My name is Shivansh!</h2>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alsoshivansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alsoshivansh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alsoshivansh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/alsoshivansh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alsoshivansh) 
+<br clear="both">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alsoshivansh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alsoshivansh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alsoshivansh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alsoshivansh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alsoshivansh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=alsoshivansh&icon=0&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://www.linkedin.com/in/alsoshivansh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/alsoshivansh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@alsoshivansh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://twitter.com/alsoshivansh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alsoshivansh) 
+###
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<img align="left" height="220" src="https://i.pinimg.com/564x/d4/17/3b/d4173bd2eba066a5554102e42ccf7388.jpg"  />
+
+###
+
+<p align="center">Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss anything related to data science, mathematics, or programming. Let's learn and grow together! 🚀</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/alsoshivansh/alsoshivansh/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/alsoshivansh/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312p7vhzuizhwjpl3ng3sr6ecnye&unique={true|1|on|yes})?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
+</div>
+
+###
